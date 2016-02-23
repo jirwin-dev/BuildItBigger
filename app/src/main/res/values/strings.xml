@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="endpoints_error">Error retrieving joke from endpoint!</string>
+</resources>

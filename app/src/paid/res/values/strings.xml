@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Build it Bigger Paid</string>
+    <string name="textView">Press the button to hear a joke</string>
+    <string name="tellJokeButton">Tell Joke</string>
+</resources>
